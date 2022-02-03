@@ -37,6 +37,6 @@ There is a [website][1].
 ## 🙄 Lazy work...
 
 
-![endaye's Github stats](https://github-readme-stats.vercel.app/api?username=endaye&show_icons=true)
+![endaye's Github stats](https://github-readme-stats.vercel.app/api?username=endaye&show_icons=true&theme=radical)
 
 [1]: https://endaye.com/
