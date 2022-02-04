@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <a href="https://endaye.com"><img align='right' src='https://endaye.com/img/portrait-talk-192.gif' width='200"'></a>
 
 
-![status](https://img.shields.io/badge/status-up-brightgreen) ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey) ![](https://img.shields.io/static/v1?label=wechat&message=_endaye&color=7BB32E&logo=wechat) ![](https://visitor-badge.glitch.me/badge?page_id=github.com/endaye)
+![](https://img.shields.io/static/v1?label=wechat&message=_endaye&color=7BB32E&logo=wechat) ![](https://visitor-badge.glitch.me/badge?page_id=github.com/endaye) ![](https://img.shields.io/github/stars/endaye?style=social) ![](https://img.shields.io/github/followers/endaye?style=social) 
 
 
 I'm **Yuancheng Zhang**, aka **endaye**.  
