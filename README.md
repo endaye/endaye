@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 
-## 😕 Who this guy?
+## 😕 Who's this guy?
 
 <!--https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif-->
 <a href="https://endaye.com"><img align='right' src='https://endaye.com/img/portrait-talk-192.gif' width='200"'></a>
