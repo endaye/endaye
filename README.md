@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 
 I'm **Yuancheng Zhang**, aka **endaye**.  
-I'm an [indie game developer](https://en.wikipedia.org/wiki/List_of_indie_game_developers) / [SDE](https://www.google.com/).  
+I'm an [indie game coder](https://en.wikipedia.org/wiki/List_of_indie_game_developers) and [web3 dev](https://www.google.com/).  
 Currently I live in [Shanghai](https://en.wikipedia.org/wiki/Shanghai).  
 There is a [website][1].  
 
