@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 I'm **Yuancheng Zhang**, aka **endaye**.  
 I'm an [indie game dev](https://en.wikipedia.org/wiki/List_of_indie_game_developers) and [web3 buidler](https://www.google.com/).  
 Currently I live anywhere as a digital nomad.  
-There is a [website][1].
+There is a [endaye.com][1].
 
 **I hate fishing.**
 
