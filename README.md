@@ -47,7 +47,7 @@ There is a [endaye.com][1].
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt="blender" width="40" height="40"/>
  </a>
  <a href="https://www.aseprite.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt="blender" width="40" height="40"/>
+  <img src="https://user-images.githubusercontent.com/4829591/234060625-13c9d649-5043-4d09-a8d1-e3c6a1902909.png" alt="aseprite" width="40" height="40"/>
  </a> 
  <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="unity" width="40" height="40"/>
