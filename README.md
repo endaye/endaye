@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/static/v1?label=wechat&message=_endaye&color=7BB32E&logo=wechat) ![](https://visitor-badge.glitch.me/badge?page_id=github.com/endaye) ![](https://img.shields.io/github/stars/endaye?style=social) ![](https://img.shields.io/github/followers/endaye?style=social)
 
 I'm **Yuancheng Zhang**, aka **endaye**.  
-I'm an [indie game dev](https://en.wikipedia.org/wiki/List_of_indie_game_developers) and [web3 buidler](https://www.google.com/).  
+I'm an [indie game dev](https://en.wikipedia.org/wiki/List_of_indie_game_developers) and [web3 buidler](https://www.google.com/search?q=web3).  
 Currently I live anywhere as a digital nomad.  
 There is a [endaye.com][1].
 
