@@ -57,6 +57,11 @@ Here is [endaye.com][1].
   <a href="https://threejs.org/" target="_blank" rel="noreferrer"> 
   <img src="https://github.com/endaye/endaye/assets/4829591/a78ad54b-0097-46e4-ab27-b82fed76c67c" alt="pixijs" width="40" height="40"/>
  </a> 
+ </a> 
+  <a href="https://mud.dev/" target="_blank" rel="noreferrer"> 
+  <img src="https://mud.dev/logo512-white.png" alt="pixijs" width="40" height="40"/>
+ </a> 
+ 
  <a href="https://teenage.engineering/" target="_blank" rel="noreferrer"> 
   <img src="https://teenage.engineering/_img/54be52c831b7d603007ab8dc_512.png" alt="teenage engineering" width="40" >
  </a> 
