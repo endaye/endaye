@@ -50,6 +50,13 @@ Here is [endaye.com][1].
  <a href="https://www.aseprite.org/" target="_blank" rel="noreferrer"> 
   <img src="https://user-images.githubusercontent.com/4829591/234060625-13c9d649-5043-4d09-a8d1-e3c6a1902909.png" alt="aseprite" width="40" height="40"/>
  </a> 
+  <a href="https://pixijs.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://pixijs.com/images/logo.svg" alt="pixijs" width="40" height="40"/>
+ </a> 
+ </a> 
+  <a href="https://threejs.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://github.com/endaye/endaye/assets/4829591/a78ad54b-0097-46e4-ab27-b82fed76c67c" alt="pixijs" width="40" height="40"/>
+ </a> 
  <a href="https://teenage.engineering/" target="_blank" rel="noreferrer"> 
   <img src="https://teenage.engineering/_img/54be52c831b7d603007ab8dc_512.png" alt="teenage engineering" width="40" >
  </a> 
