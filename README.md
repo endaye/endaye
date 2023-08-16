@@ -117,3 +117,7 @@ Here is [endaye.com][1].
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"  alt="figma" width="40" height="40"/> 
  </a>
 </p>
+
+## 👀 Visit
+
+<img src="https://profile-counter.glitch.me/endaye/count.svg">  
