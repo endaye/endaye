@@ -31,8 +31,7 @@ Here is [endaye.com][1].
 
 <!-- <img src='https://endaye.com/img/en-logo-8bit-128x128-anim.gif' width='40"'> -->
 
-<img align='right' src="https://github.com/endaye/endaye/assets/4829591/78cb903b-db6f-4c79-8a04-4c256520b743" alt='大悲咒'/>
-
+<a href='https://youtu.be/LT-Cysmblwo'><img align='right' src="https://github.com/endaye/endaye/assets/4829591/9970590f-d349-4aac-9c81-e8f57ed32eb6" alt='大悲咒'/></a>
 
 ## 🙄 Lazy work...
 
