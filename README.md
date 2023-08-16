@@ -118,6 +118,9 @@ Here is [endaye.com][1].
  </a>
 </p>
 
-## 👀 Visit
+
+## 🫣 Stats
+
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=endaye" alt="endaye" /></a>
 
 <img src="https://profile-counter.glitch.me/endaye/count.svg">  
