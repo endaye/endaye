@@ -121,10 +121,3 @@ Here is [endaye.com][1].
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"  alt="figma" width="40" height="40"/> 
  </a>
 </p>
-
-
-## 🫣 Stats
-
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=endaye" alt="endaye" /></a>
-
-<img src="https://profile-counter.glitch.me/endaye/count.svg">  
