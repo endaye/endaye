@@ -31,6 +31,9 @@ Here is [endaye.com][1].
 
 <!-- <img src='https://endaye.com/img/en-logo-8bit-128x128-anim.gif' width='40"'> -->
 
+<img align='right' src="https://github.com/endaye/endaye/assets/4829591/78cb903b-db6f-4c79-8a04-4c256520b743" alt='大悲咒'/>
+
+
 ## 🙄 Lazy work...
 
 [![endaye's Github stats](https://github-readme-stats.vercel.app/api?username=endaye&show_icons=true&theme=gruvbox_light&include_all_commits=true)][2] [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=endaye&layout=compact&theme=gruvbox_light&include_all_commits=true)][2]
