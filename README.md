@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 I'm **Todd Zhang**, aka **endaye**.  
 I'm an [indie game dev](https://en.wikipedia.org/wiki/List_of_indie_game_developers) and [web3 buidler](https://www.google.com/search?q=web3).  
 Founder of [Hidden Moss](https://hiddenmoss.com/).  
-Currently I live anywhere as a digital nomad.  
+Currently, I live somewhere as a digital nomad.  
 Here is [endaye.com][1].  
 
 **I hate fishing.**
