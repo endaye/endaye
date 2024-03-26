@@ -35,22 +35,6 @@ Here is [endaye.com][1].
 
 <img align='right' src="https://github.com/endaye/endaye/assets/4829591/9970590f-d349-4aac-9c81-e8f57ed32eb6" alt='大悲咒'>
 
-## 🙄 Lazy work...
-
-<!-- activity graph heroku-app start -->
-<p align="center">
-    <a href="https://wakatime.com/@endaye">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=endaye&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
-    </a>
-</p>
-<!-- activity graph heroku-app end -->
-
-
-[![endaye's Github stats](https://github-readme-stats.vercel.app/api?username=endaye&show_icons=true&theme=gruvbox_light&include_all_commits=true)][2] [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=endaye&layout=compact&theme=gruvbox_light&include_all_commits=true)][2]
-
-[1]: https://endaye.com/
-[2]: https://github.com/endaye
-
 ## 🤑 Toolbox
 
 <p> 
@@ -130,3 +114,20 @@ Here is [endaye.com][1].
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"  alt="figma" width="40" height="40"/> 
  </a>
 </p>
+
+
+## 🙄 Lazy work...
+
+<!-- activity graph heroku-app start -->
+<p align="center">
+    <a href="https://wakatime.com/@endaye">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=endaye&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
+    </a>
+</p>
+<!-- activity graph heroku-app end -->
+
+
+[![endaye's Github stats](https://github-readme-stats.vercel.app/api?username=endaye&show_icons=true&theme=gruvbox_light&include_all_commits=true)][2] [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=endaye&layout=compact&theme=gruvbox_light&include_all_commits=true)][2]
+
+[1]: https://endaye.com/
+[2]: https://github.com/endaye
