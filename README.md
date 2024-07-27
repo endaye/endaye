@@ -99,23 +99,22 @@ Here is [endaye.com][1].
 
 <p>
  <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank" rel="noreferrer"> 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
+  <img src="https://github.com/user-attachments/assets/1b71fc76-297f-4b60-ac0a-00d811489c80" alt="photoshop" width="40" height="40"/> 
  </a> 
  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" alt="illustrator" width="40" height="40"/> 
+  <img src="https://github.com/user-attachments/assets/a343254f-d7f7-452a-a04f-5b183d96368c" alt="illustrator" width="40" height="40"/> 
  </a> 
   <a href="https://www.adobe.com/in/products/premiere.html" target="_blank" rel="noreferrer"> 
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" alt="premiere" width="40" height="40"/> 
+   <img src="https://github.com/user-attachments/assets/67a55b83-f236-4dc0-b0f2-486fce8ee7bb" alt="premiere-pro" width="40" height="40"/> 
  </a> 
  <a href="https://www.adobe.com/in/products/aftereffects.html" target="_blank" rel="noreferrer"> 
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" alt="premiere" width="40" height="40"/> 
+   <img src="https://github.com/user-attachments/assets/570c7647-b193-4ebe-b901-dad45d0ab8fb" alt="after-effects" width="40" height="40"/> 
  </a> 
  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"  alt="figma" width="40" height="40"/> 
  </a>
 </p>
-
-
+ 
 ## 🙄 Lazy work...
 
 <!-- activity graph heroku-app start -->
