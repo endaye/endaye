@@ -95,6 +95,9 @@ Here is [endaye.com][1].
  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="40" height="40"/> 
  </a>
+ <a href="https://www.cursor.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/cursor.png" alt="Cursor" width="40" height="40"/> 
+ </a>
 </p>
 
 <p>
