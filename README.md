@@ -112,11 +112,15 @@ Here is [endaye.com][1].
  </a> 
  <a href="https://www.adobe.com/in/products/aftereffects.html" target="_blank" rel="noreferrer"> 
    <img src="https://github.com/user-attachments/assets/570c7647-b193-4ebe-b901-dad45d0ab8fb" alt="after-effects" width="40" height="40"/> 
- </a> 
+ </a>
+ <a href="https://obsidian.md/" target="_blank" rel="noreferrer"> 
+  <img src="https://github.com/user-attachments/assets/7946b27b-7af5-49a0-90a1-8973774663f7"  alt="obsidian" width="40" height="40"/> 
+ </a>
  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"  alt="figma" width="40" height="40"/> 
  </a>
 </p>
+
  
 ## 🙄 Lazy work...
 
