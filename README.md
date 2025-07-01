@@ -121,13 +121,11 @@ Here is [endaye.com][1].
 
 ## 🙄 Lazy work...
 
-<!-- activity graph heroku-app start -->
-<p align="center">
-    <a href="https://wakatime.com/@endaye">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=endaye&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
-    </a>
-</p>
-<!-- activity graph heroku-app end -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/endaye/endaye/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/endaye/endaye/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/endaye/endaye/output/github-contribution-grid-snake.svg">
+</picture>
 
 [1]: https://endaye.com/
 [2]: https://github.com/endaye
