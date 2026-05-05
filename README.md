@@ -48,10 +48,8 @@ Here is [endaye.com][1].
   <a href="https://pixijs.com/" target="_blank" rel="noreferrer"> 
   <img src="https://pixijs.com/images/logo.svg" alt="pixijs" width="40" height="40"/>
  </a> 
- </a> 
   <a href="https://threejs.org/" target="_blank" rel="noreferrer"> 
   <img src="https://github.com/endaye/endaye/assets/4829591/a78ad54b-0097-46e4-ab27-b82fed76c67c" alt="pixijs" width="40" height="40"/>
- </a> 
  </a> 
   <a href="https://mud.dev/" target="_blank" rel="noreferrer"> 
   <img src="https://mud.dev/logo512-white.png" alt="pixijs" width="40" height="40"/>
