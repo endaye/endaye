@@ -36,88 +36,86 @@ Here is [endaye.com][1].
 ## 🤑 Toolbox
 
 <p> 
- <a href="https://godotengine.org" target="_blank" rel="noreferrer" style="display:inline-block;"> 
+ <a href="https://godotengine.org" target="_blank" rel="noreferrer"> 
   <img src="https://godotengine.org/assets/press/icon_color.svg" alt="godot engine" width="40" height="40"/> 
  </a>
- <a href="https://www.blender.org/" target="_blank" rel="noreferrer" style="display:inline-block;"> 
+ <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt="blender" width="40" height="40"/>
  </a>
- <a href="https://www.aseprite.org/" target="_blank" rel="noreferrer" style="display:inline-block;"> 
+ <a href="https://www.aseprite.org/" target="_blank" rel="noreferrer"> 
   <img src="https://user-images.githubusercontent.com/4829591/234060625-13c9d649-5043-4d09-a8d1-e3c6a1902909.png" alt="aseprite" width="40" height="40"/>
  </a> 
-  <a href="https://pixijs.com/" target="_blank" rel="noreferrer" style="display:inline-block;"> 
+  <a href="https://pixijs.com/" target="_blank" rel="noreferrer"> 
   <img src="https://pixijs.com/images/logo.svg" alt="pixijs" width="40" height="40"/>
  </a> 
- </a> 
-  <a href="https://threejs.org/" target="_blank" rel="noreferrer" style="display:inline-block;"> 
+  <a href="https://threejs.org/" target="_blank" rel="noreferrer"> 
   <img src="https://github.com/endaye/endaye/assets/4829591/a78ad54b-0097-46e4-ab27-b82fed76c67c" alt="pixijs" width="40" height="40"/>
  </a> 
- </a> 
-  <a href="https://mud.dev/" target="_blank" rel="noreferrer" style="display:inline-block;"> 
+  <a href="https://mud.dev/" target="_blank" rel="noreferrer"> 
   <img src="https://mud.dev/logo512-white.png" alt="pixijs" width="40" height="40"/>
  </a> 
  
- <a href="https://teenage.engineering/" target="_blank" rel="noreferrer" style="display:inline-block;"> 
+ <a href="https://teenage.engineering/" target="_blank" rel="noreferrer"> 
   <img src="https://teenage.engineering/_img/54be52c831b7d603007ab8dc_512.png" alt="teenage engineering" width="40" >
  </a> 
- <a href="https://unity.com/" target="_blank" rel="noreferrer" style="display:inline-block;"> 
+ <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="unity" width="40" height="40"/>
  </a> 
 </p>
 
 <p>
- <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank" rel="noreferrer" style="display:inline-block;">
+ <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/>
  </a>
-  <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" target="_blank" rel="noreferrer" style="display:inline-block;">
+  <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" target="_blank" rel="noreferrer">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="c#" width="40" height="40"/>
  </a>
- <a href="https://www.python.org/" target="_blank" rel="noreferrer" style="display:inline-block;"> 
+ <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
  </a>
- <a href="https://www.lua.org/" target="_blank" rel="noreferrer" style="display:inline-block;"> 
+ <a href="https://www.lua.org/" target="_blank" rel="noreferrer"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" alt="lua" width="40" height="40"/> 
  </a>
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="display:inline-block;">
+ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
  </a>
- <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" style="display:inline-block;">
+ <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="40" height="40" alt="TypeScript" />
  </a> 
- <a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="display:inline-block;"> 
+ <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/> 
  </a> 
- <a href="https://soliditylang.org/" target="_blank" rel="noreferrer" style="display:inline-block;"> 
+ <a href="https://soliditylang.org/" target="_blank" rel="noreferrer"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" alt="solidity" width="40" height="40"/> 
  </a> 
- <a href="https://ubuntu.com/" target="_blank" rel="noreferrer" style="display:inline-block;"> 
+ <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/> 
  </a> 
- <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer" style="display:inline-block;"> 
+ <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="40" height="40"/> 
  </a>
- <a href="https://www.cursor.com/" target="_blank" rel="noreferrer" style="display:inline-block;"> 
+ <a href="https://www.cursor.com/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/cursor.png" alt="Cursor" width="40" height="40"/> 
  </a>
 </p>
 
 <p>
- <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank" rel="noreferrer" style="display:inline-block;"> 
+ <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank" rel="noreferrer"> 
   <img src="https://github.com/user-attachments/assets/1b71fc76-297f-4b60-ac0a-00d811489c80" alt="photoshop" width="40" height="40"/> 
  </a> 
- <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer" style="display:inline-block;"> 
+ <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> 
   <img src="https://github.com/user-attachments/assets/a343254f-d7f7-452a-a04f-5b183d96368c" alt="illustrator" width="40" height="40"/> 
  </a> 
-  <a href="https://www.adobe.com/in/products/premiere.html" target="_blank" rel="noreferrer" style="display:inline-block;"> 
+  <a href="https://www.adobe.com/in/products/premiere.html" target="_blank" rel="noreferrer"> 
    <img src="https://github.com/user-attachments/assets/67a55b83-f236-4dc0-b0f2-486fce8ee7bb" alt="premiere-pro" width="40" height="40"/> 
  </a> 
- <a href="https://www.adobe.com/in/products/aftereffects.html" target="_blank" rel="noreferrer" style="display:inline-block;"> 
+ <a href="https://www.adobe.com/in/products/aftereffects.html" target="_blank" rel="noreferrer"> 
    <img src="https://github.com/user-attachments/assets/570c7647-b193-4ebe-b901-dad45d0ab8fb" alt="after-effects" width="40" height="40"/> 
  </a>
- <a href="https://obsidian.md/" target="_blank" rel="noreferrer" style="display:inline-block;"> 
+ <a href="https://obsidian.md/" target="_blank" rel="noreferrer"> 
   <img src="https://github.com/user-attachments/assets/7946b27b-7af5-49a0-90a1-8973774663f7"  alt="obsidian" width="40" height="40"/> 
  </a>
- <a href="https://www.figma.com/" target="_blank" rel="noreferrer" style="display:inline-block;"> 
+ <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"  alt="figma" width="40" height="40"/> 
  </a>
 </p>
