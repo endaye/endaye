@@ -67,6 +67,11 @@ Here is [endaye.com][1].
     <td align="center"><a href="https://obsidian.md/"><img src="https://github.com/user-attachments/assets/7946b27b-7af5-49a0-90a1-8973774663f7" alt="obsidian" width="40" height="40"></a></td>
     <td align="center"><a href="https://www.figma.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="40" height="40"></a></td>
   </tr>
+  <tr>
+    <td align="center"><a href="https://openai.com/codex/"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/codex-color.png" alt="Codex" width="40" height="40"></a></td>
+    <td align="center"><a href="https://www.anthropic.com/claude-code"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/claudecode-color.png" alt="Claude Code" width="40" height="40"></a></td>
+    <td align="center"><a href="https://gemini.google.com/"><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/gemini-color.png" alt="Gemini" width="40" height="40"></a></td>
+  </tr>
 </table>
 
 ## 🙄 Lazy work...
